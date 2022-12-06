@@ -4,7 +4,7 @@ This project allows the user to play a game where he tryes to guess the random n
 
 ## Website
 
-https://mythology-project.vercel.app
+https://acerte-o-numero-puce.vercel.app
 
 #IMPORTANT
 
