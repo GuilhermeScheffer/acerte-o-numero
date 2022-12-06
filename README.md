@@ -10,3 +10,4 @@ https://acerte-o-numero-puce.vercel.app
 
 * The game only works on Chrome Navigator
 * If you want to cheat, open Chrome console
+* If you say "game over", the game ends.
